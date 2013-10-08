@@ -1,13 +1,8 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
+source/Debug/
+source/Release/
+!lua/lua.vcproj
+!lua/NOTE
+lua/
+bin/*.exe
+bin/*.dll
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
